@@ -3,6 +3,8 @@
 ## Project Overview
 This project involves the development of a real-time data analysis pipeline for COVID-19 data using Apache Kafka and Apache Spark. The data is ingested in real-time using Kafka, processed and analyzed with Spark, and then managed and visualized with phpMyAdmin.
 
+⚠️ **Note**: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
+
 ## Technologies Used
 - **Apache Kafka**: Used for data ingestion and real-time streaming.
 - **Apache Spark**: Utilized for processing and analyzing large datasets.
