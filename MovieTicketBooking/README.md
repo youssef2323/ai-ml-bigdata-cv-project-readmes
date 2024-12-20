@@ -2,6 +2,8 @@
 
 This project is a multithreaded Python application for booking movie tickets, allowing multiple users to book seats concurrently. The system features a GUI for both users and administrators, ensuring real-time synchronization, thread safety, and dynamic updates.
 
+⚠️ **Note**: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
+
 ---
 
 ## Examples of Results
