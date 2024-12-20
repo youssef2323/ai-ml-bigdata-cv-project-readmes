@@ -2,6 +2,9 @@
 
 A Flask-based web application designed to predict network faults using a state-of-the-art LSTM model. This application takes time-series data from sensors as input and predicts whether the network is "Normal" or "Faulty." The LSTM model achieved an impressive **99.9% accuracy** during evaluation.
 
+
+⚠️ **Note**: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
+
 ---
 
 ---
