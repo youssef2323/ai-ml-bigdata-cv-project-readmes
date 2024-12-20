@@ -4,7 +4,7 @@
 
 This repository showcases projects at the intersection of Artificial Intelligence (AI), Machine Learning (ML), and Big Data. Each project demonstrates end-to-end implementations, including data preprocessing, predictive modeling, and real-time big data pipelines.
 
-**Note**: The full source code for these projects is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
+⚠️ **Note**: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
 
 ---
 
