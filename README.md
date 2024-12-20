@@ -42,3 +42,8 @@ This repository showcases projects at the intersection of Artificial Intelligenc
 ---
 
 Feel free to explore each project by clicking on the project links in the Table of Contents!
+
+**Note**: The full source code for these projects is private. If you are interested in viewing the code, feel free to reach out via [email/contact info].
+
+
+
