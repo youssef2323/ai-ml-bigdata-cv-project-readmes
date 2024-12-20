@@ -1,5 +1,8 @@
 # Song Similarity Project
 This project aims to identify the similarity between songs by utilizing preprocessing, vectorization, and cosine similarity techniques. The project also includes a Flask server to serve the predictive model as a web application.<br>
+
+⚠️ **Note**: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
+
 ![Screenshot (293)](./Screenshots/Screenshot(1).png)<br>
 ![Screenshot (293)](./Screenshots/Screenshot(2).png)<br>
 
