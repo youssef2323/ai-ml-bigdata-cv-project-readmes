@@ -14,6 +14,8 @@ During model building we will cover almost all data science concepts such as dat
 load and cleaning, outlier detection and removal, feature engineering, dimensionality
 reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. <br>
 
+⚠️ **Note**: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
+
 Technology and tools wise this project covers: <br>
 
 1 - Python , Numpy and Pandas for data cleaning <br>
