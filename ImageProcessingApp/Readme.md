@@ -2,6 +2,8 @@
 
 This project is a Flask web application for processing and analyzing images using various algorithms. The app allows users to upload an image, process it through different functionalities, and view/download the results.
 
+⚠️ **Note**: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
+
 ---
 
 ## Examples of Results
