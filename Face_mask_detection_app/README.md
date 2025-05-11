@@ -2,7 +2,12 @@
 
 A complete object detection system to classify whether people are wearing face masks properly, improperly, or not at all — using deep learning, SVM/DNN classifiers, and real-time face detection with MediaPipe. The system includes a Tkinter GUI for easy interaction.
 
+
+⚠️ Note: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
 ---
+
+
+
 
 ## 📸 Demo
 
